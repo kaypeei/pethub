@@ -1,4 +1,4 @@
-# Process Improvement Case Study – NHS Home Visit Workflow
+# Process Improvement Case Study – Booking Appointment Workflow
 
 This project demonstrates:
 - As-Is and To-Be process mapping
