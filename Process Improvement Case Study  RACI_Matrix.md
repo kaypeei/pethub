@@ -2,4 +2,4 @@
 
 | Task | Responsible | Accountable | Consulted | Informed |
 |------|-------------|-------------|-----------|----------|
-| Schedule visits | Nurse | Manager | Admin | Patient |
+| Schedule visits | Vets | Manager | Admin | Patient |
